@@ -13,6 +13,7 @@ public class App
     	final String a ="Hello World";
     	System.setOut(new PrintStream(a));
         System.out.println( "Hello World!" );
+		System.out.println( "Hello World1!" );
     }
     
     public static String calculate()
